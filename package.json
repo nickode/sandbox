@@ -1,0 +1,19 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "Tests for web stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickode/sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickode/sandbox/issues"
+  },
+  "homepage": "https://github.com/nickode/sandbox#readme"
+}
