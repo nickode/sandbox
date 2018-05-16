@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nickode/sandbox/issues"
   },
-  "homepage": "https://github.com/nickode/sandbox#readme"
+  "homepage": "https://github.com/nickode/sandbox#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
